@@ -12,3 +12,4 @@ C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\refint\MyApp.d
 C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.pdb
 C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
 C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\ref\MyApp.dll
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
