@@ -1,3 +1,0 @@
-C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
-C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program2\\Program2.csproj",
-      "projectName": "Program2",
-      "projectPath": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program2\\Program2.csproj",
+      "projectUniqueName": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program1\\Program1.csproj",
+      "projectName": "Program1",
+      "projectPath": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program1\\Program1.csproj",
       "packagesPath": "C:\\Users\\CHETAN KHAJURIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program2\\obj\\",
+      "outputPath": "C:\\Users\\CHETAN KHAJURIA\\Desktop\\.NET_FSD\\Program1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CHETAN KHAJURIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
