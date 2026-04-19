@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Simple Customer class
 class Customer
 {
     public int Id;
@@ -14,7 +13,6 @@ class Customer
     }
 }
 
-// Simple Order class
 class Order
 {
     public int OrderId;
