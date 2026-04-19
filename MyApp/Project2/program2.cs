@@ -3,11 +3,11 @@ using System.Collections;
 
 namespace Demo_NonGenericCollections
 {
-    class Program
+    class Program2
     {
         static void Main(string[] args)
         {
-            // ---------------- STACK ----------------
+            
             Console.WriteLine("Non Generic Collection Implementation");
 
             Stack stack = new Stack();
