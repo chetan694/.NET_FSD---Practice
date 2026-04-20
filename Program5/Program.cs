@@ -1,16 +1,20 @@
 ﻿using System;
-
+class Person
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+}
 class Program
 {
     static void Main()
     {
-        // STEP 1: Take input
+        
         Console.Write("Enter something: ");
         string input = Console.ReadLine();
 
         object value;
 
-        // Try converting input to int or double, otherwise keep as string
+        
         if (int.TryParse(input, out int intVal))
             value = intVal;
         else if (double.TryParse(input, out double doubleVal))
@@ -18,7 +22,7 @@ class Program
         else
             value = input;
 
-        // STEP 2: Pattern matching using switch
+        
         switch (value)
         {
             case int i:
@@ -38,7 +42,7 @@ class Program
                 break;
         }
 
-        // STEP 3: Pattern matching with tuple
+       
         var rectangle = (length: 10, width: 5);
 
         switch (rectangle)
@@ -48,8 +52,8 @@ class Program
                 break;
         }
 
-        // STEP 4: Pattern matching with properties
-        var person = new Person { Name = "Chetan", Age = 22 };
+      
+        var person = new Person { Name = "Chetan", Age = 12 };
 
         switch (person)
         {
@@ -64,9 +68,4 @@ class Program
     }
 }
 
-// Class for property pattern matching
-class Person
-{
-    public string Name { get; set; }
-    public int Age { get; set; }
-}
+
