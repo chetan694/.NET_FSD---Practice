@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Custom exception 
+
 class SleepingAfterMidnightException : Exception
 {
     public SleepingAfterMidnightException(string msg) : base(msg) { }
@@ -18,7 +18,10 @@ class Program
             if (h >= 0 && h < 6)
                 throw new SleepingAfterMidnightException("Sleeping after midnight!");
 
-            Console.WriteLine("Good sleeping time.");
+            if (h < 0 || h > 23 )
+                throw new SleepingAfterMidnightException("Please enter between 0 to 23...I think you are from another planet!");
+            
+                Console.WriteLine("Good sleeping time.");
         }
         catch (Exception e)
         {
