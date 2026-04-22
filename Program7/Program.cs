@@ -2,10 +2,10 @@
 
 class Program
 {
-    // Step 1: Declare delegate
+    // Declare delegate
     delegate int MathOperation(int a, int b);
 
-    // Step 2: Methods
+    // Methods
     static int Add(int a, int b)
     {
         return a + b;
@@ -23,14 +23,14 @@ class Program
 
     static void Main()
     {
-        // Step 3: Assign Add method
+        // Assign Add method
         MathOperation op = Add;
 
-        // Step 4: Invoke Add
+        // Invoke Add
         int result1 = op(10, 5);
         Console.WriteLine("Addition: " + result1);
 
-        // Step 5: Change to Subtract
+        // Change to Subtract
         op = Subtract;
         int result2 = op(10, 5);
         Console.WriteLine("Subtraction: " + result2);

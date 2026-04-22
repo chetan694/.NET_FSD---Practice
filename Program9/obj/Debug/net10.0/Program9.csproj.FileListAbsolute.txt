@@ -1,0 +1,15 @@
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.AssemblyInfoInputs.cache
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.AssemblyInfo.cs
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.csproj.CoreCompileInputs.cache
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.sourcelink.json
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\bin\Debug\net10.0\Program9.exe
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\bin\Debug\net10.0\Program9.deps.json
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\bin\Debug\net10.0\Program9.runtimeconfig.json
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\bin\Debug\net10.0\Program9.dll
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\bin\Debug\net10.0\Program9.pdb
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.dll
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\refint\Program9.dll
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.pdb
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\Program9.genruntimeconfig.cache
+C:\Users\CHETAN KHAJURIA\Desktop\.NET_FSD\Program9\obj\Debug\net10.0\ref\Program9.dll
