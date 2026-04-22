@@ -45,3 +45,4 @@ class LinearSearchProgram
         Console.WriteLine("Time Complexity: O(n)");
     }
 }
+//Linear Search Code Updated
