@@ -36,3 +36,4 @@ class Program
         Console.WriteLine("Subtraction: " + result2);
     }
 }
+//delegates code updated
