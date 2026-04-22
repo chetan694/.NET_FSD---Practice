@@ -24,3 +24,4 @@ class Program
         d();  // calls both methods
     }
 }
+// multicast delegate code 
