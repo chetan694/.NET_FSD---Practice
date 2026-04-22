@@ -56,3 +56,4 @@ class BinarySearchProgram
         Console.WriteLine("Time Complexity: O(log n)");
     }
 }
+//Binary Search Code Updated
